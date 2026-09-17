@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
-import Landing from './pages/Landing';
+import Landing from './pages/landing';
 import Register from './pages/Register';
 import Login from './pages/Login';
 
